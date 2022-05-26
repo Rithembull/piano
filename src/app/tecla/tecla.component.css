@@ -1,0 +1,27 @@
+.teclaBlanca{
+    float: left;
+    border: 2px black solid;
+    height: 281px;
+    width: 41px;
+    margin: .4px;
+    margin-left: 2px;
+
+}
+.teclaNegra{
+    float: left;
+    background-color: #000;
+    border: 2px black solid;
+    height: 180px;
+    width: 32px;
+    margin-left: -15px;
+}
+.teclaBlancaTrasNegra{
+    float: left;
+    border: 2px black solid;
+    height: 281px;
+    width: 41px;
+    margin: .4px;
+    margin-left: -15px;
+
+}
+
